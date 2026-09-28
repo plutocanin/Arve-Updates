@@ -1,10 +1,10 @@
 {
   "product": "Arve",
   "channel": "stable",
-  "version": "2.4.3",
-  "published": "2026-09-24",
-  "download_url": "https://github.com/plutocanin/Arve-Updates/releases/download/v2.4.3/Arve_Setup_v2_4_3.exe",
-  "release_url": "https://github.com/plutocanin/Arve-Updates/releases/tag/v2.4.3",
-  "sha256": "c884e37c3ad2664abcc62850ceab8f69018c387c3c9ce4fbad7f8f71295ab1cf",
+  "version": "2.4.4",
+  "published": "2026-09-28",
+  "download_url": "https://github.com/plutocanin/Arve-Updates/releases/download/v2.4.4/Arve_Setup_v2_4_4.exe",
+  "release_url": "https://github.com/plutocanin/Arve-Updates/releases/tag/v2.4.4",
+  "sha256": "0b933b11290df37cb948331a008d083419ada17b2f240ed617fe9d2bb2c15d88",
   "mandatory": false
 }
