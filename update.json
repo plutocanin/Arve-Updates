@@ -1,10 +1,11 @@
 {
   "product": "Arve",
   "channel": "stable",
-  "version": "2.4.4",
-  "published": "2026-09-28",
-  "download_url": "https://github.com/plutocanin/Arve-Updates/releases/download/v2.4.4/Arve_Setup_v2_4_4.exe",
-  "release_url": "https://github.com/plutocanin/Arve-Updates/releases/tag/v2.4.4",
-  "sha256": "0b933b11290df37cb948331a008d083419ada17b2f240ed617fe9d2bb2c15d88",
-  "mandatory": false
+  "version": "2.4.5",
+  "published": "2026-10-15",
+  "download_url": "https://github.com/plutocanin/Arve-Updates/releases/download/v2.4.5/Arve_Setup_v2_4_5.exe",
+  "release_url": "https://github.com/plutocanin/Arve-Updates/releases/tag/v2.4.5",
+  "sha256": "008440ff7dc1b2a8347ef7c1b27120d70828c8114e95a844618fd67ba625e644",
+  "mandatory": false,
+  "notes": "Oppdrag, Prestige, foretrukket hjemby, statusdashboard og forbedret GUI."
 }
