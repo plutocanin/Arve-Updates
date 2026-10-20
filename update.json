@@ -1,11 +1,9 @@
 {
   "product": "Arve",
   "channel": "stable",
-  "version": "2.4.5",
-  "published": "2026-10-15",
-  "download_url": "https://github.com/plutocanin/Arve-Updates/releases/download/v2.4.5/Arve_Setup_v2_4_5.exe",
-  "release_url": "https://github.com/plutocanin/Arve-Updates/releases/tag/v2.4.5",
-  "sha256": "008440ff7dc1b2a8347ef7c1b27120d70828c8114e95a844618fd67ba625e644",
+  "version": "2.5.0",
+  "download_url": "https://github.com/plutocanin/Arve-Updates/releases/download/v2.5.0/Arve_Setup_v2_5_0.exe",
+  "sha256": "EDE3FC94D8D122010E2648721F59441E995B1C1DE6D878137A6678CBEDD58014",
   "mandatory": false,
-  "notes": "Oppdrag, Prestige, foretrukket hjemby, statusdashboard og forbedret GUI."
+  "notes": "Arve 2.5.0 – nytt PySide6-grensesnitt."
 }
