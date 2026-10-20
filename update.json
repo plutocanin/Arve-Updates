@@ -1,9 +1,9 @@
 {
   "product": "Arve",
   "channel": "stable",
-  "version": "2.5.1",
-  "download_url": "https://github.com/plutocanin/Arve-Updates/releases/download/v2.5.1/Arve_Setup_v2_5_1.exe",
-  "sha256": "F728B526BE81401977514338C2510A1917D3023872FD367FC8D80242BDFA7244",
+  "version": "2.5.2",
+  "download_url": "https://github.com/plutocanin/Arve-Updates/releases/download/v2.5.2/Arve_Setup_v2_5_2.exe",
+  "sha256": "A6F5B23C717342AA275FDD4B9A18C6CE95705C4A1A0313835D67E58AD3609C4F",
   "mandatory": false,
-  "notes": "Arve 2.5.1 – profilhåndtering, flere kontoprofiler per emulator og sikker start/stopp. Statistikk er fortsatt per emulator."
+  "notes": "Arve 2.5.2 – automatisk nedlasting med fremdrift og SHA-256-kontroll, trygg installasjon etter bekreftelse, og bevaring av profiler."
 }
