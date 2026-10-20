@@ -1,9 +1,9 @@
 {
   "product": "Arve",
   "channel": "stable",
-  "version": "2.5.0",
-  "download_url": "https://github.com/plutocanin/Arve-Updates/releases/download/v2.5.0/Arve_Setup_v2_5_0.exe",
-  "sha256": "EDE3FC94D8D122010E2648721F59441E995B1C1DE6D878137A6678CBEDD58014",
+  "version": "2.5.1",
+  "download_url": "https://github.com/plutocanin/Arve-Updates/releases/download/v2.5.1/Arve_Setup_v2_5_1.exe",
+  "sha256": "F728B526BE81401977514338C2510A1917D3023872FD367FC8D80242BDFA7244",
   "mandatory": false,
-  "notes": "Arve 2.5.0 – nytt PySide6-grensesnitt."
+  "notes": "Arve 2.5.1 – profilhåndtering, flere kontoprofiler per emulator og sikker start/stopp. Statistikk er fortsatt per emulator."
 }
