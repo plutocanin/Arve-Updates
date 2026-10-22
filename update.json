@@ -1,9 +1,9 @@
 {
   "product": "Arve",
   "channel": "stable",
-  "version": "2.5.2",
-  "download_url": "https://github.com/plutocanin/Arve-Updates/releases/download/v2.5.2/Arve_Setup_v2_5_2.exe",
-  "sha256": "A6F5B23C717342AA275FDD4B9A18C6CE95705C4A1A0313835D67E58AD3609C4F",
+  "version": "2.5.3",
+  "download_url": "https://github.com/plutocanin/Arve-Updates/releases/download/v2.5.3/Arve_Setup_v2_5_3.exe",
+  "sha256": "1A7D6D2AF845476A459D7313771B6378A2948ED9C96960766DE7B5882E8DAC3A",
   "mandatory": false,
-  "notes": "Arve 2.5.2 – automatisk nedlasting med fremdrift og SHA-256-kontroll, trygg installasjon etter bekreftelse, og bevaring av profiler."
+  "notes": "Arve 2.5.3 – Oppdrag 10 (Papirsporet): lukker sikkert et tidligere ferdig Action-filmresultat før Gangster-film i København, og kontrollerer Film sluppet hos serveren. Automatisk oppdatering videreført."
 }
