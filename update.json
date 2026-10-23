@@ -1,9 +1,9 @@
 {
   "product": "Arve",
   "channel": "stable",
-  "version": "2.5.3",
-  "download_url": "https://github.com/plutocanin/Arve-Updates/releases/download/v2.5.3/Arve_Setup_v2_5_3.exe",
-  "sha256": "1A7D6D2AF845476A459D7313771B6378A2948ED9C96960766DE7B5882E8DAC3A",
+  "version": "2.5.4",
+  "download_url": "https://github.com/plutocanin/Arve-Updates/releases/download/v2.5.4/Arve_Setup_v2_5_4.exe",
+  "sha256": "8EAB02E836EC5A23E99C948E8CF73EDC6DE4AAFA4C95B3F61AAA885D273EF979",
   "mandatory": false,
-  "notes": "Arve 2.5.3 – Oppdrag 10 (Papirsporet): lukker sikkert et tidligere ferdig Action-filmresultat før Gangster-film i København, og kontrollerer Film sluppet hos serveren. Automatisk oppdatering videreført."
+  "notes": "Arve 2.5.4 – Navneliste med søk kun på første fengselsside, opp-/ned-piler for utbrytningsprioritet, tryggere oppdrags- og rankkontroll samt forbedret logging."
 }
